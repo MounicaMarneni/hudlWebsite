@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features ="src/test/resources/features/login.feature",
-        glue ={"com.hydl.project"}
+        glue ={"com.hudl.project"}
 )
 public class Runner {
 }
